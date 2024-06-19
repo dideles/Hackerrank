@@ -1,6 +1,8 @@
 # Hackerrank
 
-Описание вашего проекта.
+![001052819_l_crop](https://github.com/dideles/Hackerrank/assets/172602565/640a40d5-6f20-4bec-8496-be2843d5f10d)
+[Репозиторий для Hackerrank 30 дней кода](https://github.com/dideles/Hackerrank/tree/main/Thirty_Days_of_Code) 
+
 
 ## Список Java файлов
 
