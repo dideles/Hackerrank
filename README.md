@@ -12,3 +12,5 @@
 | [Day: 1](https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true)     | [Data Types](https://github.com/dideles/Hackerrank/blob/main/Thirty_Days_of_Code/Day_1_Data_Types/Solution.java) |
 | [Day: 2](https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true)     | [Operators](https://github.com/dideles/Hackerrank/tree/main/Thirty_Days_of_Code/Day_2_Operators) |
 | [Day: 3](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true)  | [Intro to Conditional Statements](https://github.com/dideles/Hackerrank/blob/main/Thirty_Days_of_Code/Day_3_Intro_to_Conditional_Statement/Solution.java) |
+
+![Java](https://img.shields.io/badge/-Тег1-<ЦВЕТ>?style=flat
