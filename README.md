@@ -1,6 +1,6 @@
 # Hackerrank
 
-![001052819_l_crop](https://github.com/dideles/Hackerrank/assets/172602565/640a40d5-6f20-4bec-8496-be2843d5f10d)
+![125570911-c3cef093-99b9-477a-918a-254b79a0fcf4](https://github.com/dideles/Hackerrank/assets/172602565/8938266d-fc6f-45e9-8fdd-5be401c48f24)
 [Репозиторий для Hackerrank 30 дней кода](https://github.com/dideles/Hackerrank/tree/main/Thirty_Days_of_Code) 
 
 
