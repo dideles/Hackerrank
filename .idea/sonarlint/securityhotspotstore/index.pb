@@ -9,3 +9,11 @@ c
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 b
 2Thirty_Days_of_Code/Day_1_Data_Types/Solution.java,2/7/2772a1eb8764fff9f78dc75c853f356df59c091e
+a
+1Thirty_Days_of_Code/Day_2_Operators/Solution.java,2/6/26540a8a6979d223686807735c74ef108c9a21c0
+v
+FThirty_Days_of_Code/Day_3_Intro_to_Conditional_Statement/Solution.java,1/4/14b0ca92a725532bfc39763ea8458c119fc1a09d
+g
+7Thirty_Days_of_Code/Day_4_Class_vs_Instance/Person.java,6/b/6bcae476e080011f54507367b3e9250b75076793
+]
+-Thirty_Days_of_Code/Day_5_Loops/Solution.java,4/a/4a9345aca575d303dd3ae2353fc7d15ec5185933
