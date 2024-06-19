@@ -4,7 +4,7 @@
 [Репозиторий для Hackerrank 30 дней кода](https://github.com/dideles/Hackerrank/tree/main/Thirty_Days_of_Code) 
 
 
-## Список Java файлов
+## Содержание
 
 | Day | Ссылка на файл |
 | -------------- | -------------- |
