@@ -13,4 +13,4 @@
 | [Day: 2](https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true)     | [Operators](https://github.com/dideles/Hackerrank/tree/main/Thirty_Days_of_Code/Day_2_Operators) |
 | [Day: 3](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true)  | [Intro to Conditional Statements](https://github.com/dideles/Hackerrank/blob/main/Thirty_Days_of_Code/Day_3_Intro_to_Conditional_Statement/Solution.java) |
 | [Day: 4](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true) | [Class vs. Instance](https://github.com/dideles/Hackerrank/blob/main/Thirty_Days_of_Code/Day_4_Class_vs_Instance/Person.java) |
-| [Day: 5](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true) | [Loops](https://github.com/dideles/Hackerrank/tree/main/Thirty_Days_of_Code/Day_5_Loops)) |
+| [Day: 5](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true) | [Loops](https://github.com/dideles/Hackerrank/tree/main/Thirty_Days_of_Code/Day_5_Loops) |
